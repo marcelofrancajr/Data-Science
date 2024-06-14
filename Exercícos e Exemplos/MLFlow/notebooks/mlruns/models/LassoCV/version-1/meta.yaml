@@ -1,0 +1,12 @@
+creation_timestamp: 1678343532569
+current_stage: None
+description: null
+last_updated_timestamp: 1678343532569
+name: LassoCV
+run_id: 9be6146b4d2e452f9dc9fb09ae6407c8
+run_link: null
+source: file:///home/cmcouto-silva/Insync/cmcouto.silva%40gmail.com/Google%20Drive/Freela/DNC/Aulas/Modelos/MLFlow/notebooks/mlruns/874019575468914865/9be6146b4d2e452f9dc9fb09ae6407c8/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,101 @@
+id;valor;parte_debitada_nome;parte_debitada_conta;parte_debitada_banco;parte_creditada_nome;parte_creditada_conta;parte_creditada_banco;chave_pix_tipo;chave_pix_valor;data_transacao
+1;9.93;Dra. Ana Carolina Oliveira;79470453;Nubank;Maysa da Cruz;67162333;Itau;cpf;8439752610;18/02/2022 13:28
+2;15.38;Ana Caldeira;19689668;Itau;Evelyn Sales;60005091;Bradesco;cpf;27145380617;08/04/2022 01:47
+3;57.58;Arthur Goncalves;18856899;Bradesco;Maria Melo;13496303;BTG;cpf;16452937006;14/07/2022 03:18
+4;53705.13;Ana Julia Caldeira;22834741;Itau;Ana Livia Almeida;44695116;Nubank;cpf;26590384142;15/01/2022 18:06
+5;25299.69;Srta. Nicole Pinto;3715882;Nubank;Srta. Ana Laura da Rocha;21409465;Nubank;cpf;73486105280;13/05/2022 11:04
+6;7165.06;Gabriela Ferreira;2243037;Nubank;Larissa Souza;10689552;Itau;cpf;96845371237;11/09/2022 13:38
+7;6.16;Heloisa da Rocha;59778949;BTG;Dra. Vitoria Silveira;56583792;Nubank;cpf;89064175357;10/12/2021 12:37
+8;136.36;Srta. Isadora Correia;77102442;Nubank;Francisco da Costa;96088386;Nubank;cpf;85907632429;30/12/2021 23:18
+9;574.39;Dr. Lucas da Cruz;38501170;BTG;Calebe da Luz;19365554;Bradesco;cpf;64720189520;21/06/2021 07:20
+10;42.88;Mirella Martins;29535709;Bradesco;Danilo Lopes;60064650;Itau;cpf;87014935232;21/09/2022 17:19
+11;33629.97;Sr. Vitor Gabriel da Costa;67010663;BTG;Sra. Lavinia Caldeira;48145941;Nubank;cpf;63542098124;12/09/2022 00:29
+12;4374.56;Nathan Peixoto;22975623;Nubank;Diogo da Luz;30302218;Bradesco;cpf;72908154323;07/08/2022 17:01
+13;507.18;Miguel Araujo;75113657;Nubank;Marcos Vinicius Goncalves;67418115;Itau;cpf;84763129031;07/03/2021 12:34
+14;67758.87;Juliana Correia;4495167;Itau;Davi Lucas Porto;94395923;BTG;cpf;97804215649;24/03/2021 22:58
+15;815.53;Ana Laura Souza;79650252;Itau;Isabel Costa;28762988;BTG;cpf;51824039689;21/02/2022 11:25
+16;2.73;Levi Lima;73815441;BTG;Dra. Maria Luiza Peixoto;96594203;Bradesco;cpf;94516738066;20/07/2021 09:17
+17;0.54;Otavio Cunha;85583961;Bradesco;Elisa Moreira;97003354;Bradesco;cpf;15248769094;16/02/2022 10:16
+18;49836.72;Ana Carolina Oliveira;80200942;Itau;Stella Fernandes;31579145;BTG;cpf;47609381250;18/07/2022 22:46
+19;9.68;Levi Martins;12349481;Itau;Joao Guilherme Mendes;31102492;BTG;celular;11916824404;26/02/2022 15:05
+20;9837.22;Noah Cunha;84622162;Bradesco;Juan Mendes;97805965;Bradesco;celular;11944547225;22/06/2021 05:39
+21;9.36;Dr. Benjamin Cardoso;50474832;BTG;Sr. Rafael Novaes;82556019;Nubank;celular;21922692498;08/07/2021 10:20
+22;22.43;Fernanda Melo;3317895;Nubank;Luiz Otavio Ribeiro;97680466;BTG;celular;84972507365;04/08/2022 00:48
+23;7.44;Mariane Ribeiro;28651670;BTG;Larissa da Mata;46848173;BTG;celular;71937205663;29/07/2021 08:27
+24;40.36;Gabriela Santos;33739687;Itau;Maria Clara Moraes;7082483;Nubank;celular;61966449985;11/07/2021 05:01
+25;28.66;Leandro Freitas;91133554;Itau;Valentina Pereira;6414456;BTG;celular;71979984146;24/08/2022 15:39
+26;154.98;Luiza Pires;69839296;Bradesco;Pietra Melo;42851788;Itau;celular;71908616462;28/01/2022 16:51
+27;35859.11;Ana Carolina Jesus;56882202;BTG;Kamilly Oliveira;64189983;BTG;celular;51918058344;27/11/2021 19:30
+28;89.94;Maria Sophia Silva;26793138;Bradesco;Thiago Vieira;94781274;Nubank;celular;11988731468;04/03/2021 03:31
+29;890.47;Sr. Luiz Felipe Santos;20051189;Bradesco;Enzo Gabriel Cardoso;17302910;Nubank;celular;31920761665;19/11/2022 19:25
+30;3035.83;Dr. Davi Lucas Castro;7706330;BTG;Enzo Gabriel Nascimento;95438570;Nubank;celular;21995027998;09/01/2021 02:17
+31;20875.64;Dr. Joao Gabriel Lopes;51847615;BTG;Ana Caldeira;69556895;Bradesco;celular;84993893778;29/04/2022 10:17
+32;1508.83;Sr. Pedro da Mata;36797731;BTG;Leonardo Porto;36671966;Nubank;celular;71971735082;12/10/2021 10:04
+33;1.58;Dra. Ana Vitoria Duarte;7482168;BTG;Alexia Farias;53857589;BTG;celular;81992580873;03/07/2022 23:37
+34;58083.62;Giovanna Martins;64292692;Itau;Eduarda Costa;21654410;Bradesco;celular;11991283574;10/02/2021 06:13
+35;7944.02;Clara das Neves;74962702;BTG;Stella Santos;70949900;Nubank;celular;41953574945;02/02/2022 14:41
+36;48714.95;Pedro Miguel Azevedo;16805003;Itau;Guilherme Castro;82754334;Itau;celular;21962702716;07/06/2022 05:40
+37;19799.16;Sr. Lucca Barros;60614524;Itau;Samuel Pinto;72716971;Bradesco;celular;61930570325;15/02/2021 14:13
+38;32.79;Srta. Rafaela Azevedo;47265339;Nubank;Bryan Freitas;25580400;Itau;celular;31900267448;18/02/2021 04:08
+39;2.52;Dr. Caua Cardoso;86824823;BTG;Ana Vitoria Pinto;91455952;Itau;celular;61966724314;09/05/2022 06:04
+40;829.87;Yasmin Rocha;54656280;BTG;Alexandre Farias;76428934;BTG;celular;31924932984;09/12/2021 06:10
+41;60.55;Amanda Farias;35150923;BTG;Leonardo Gomes;54498411;Nubank;cpf;57924816011;23/03/2022 20:20
+42;6.62;Marcos Vinicius Duarte;56286920;Nubank;Vitor Hugo Aragao;59497930;BTG;cpf;94807512676;20/10/2021 06:58
+43;70.86;Felipe Nascimento;35805970;Bradesco;Raul Ferreira;30637141;Itau;cpf;10658324780;10/08/2021 04:39
+44;459.20;Maysa Nogueira;6698702;Bradesco;Marcos Vinicius da Mata;93470409;Nubank;cpf;14960258730;06/04/2021 03:47
+45;69.76;Maria Eduarda Rocha;6984060;BTG;Maria Vitoria Correia;17368049;Nubank;cpf;2187365417;05/03/2021 12:07
+46;5839.39;Dra. Cecilia Cavalcanti;77097184;BTG;Melissa Monteiro;61087827;Nubank;cpf;78632019503;17/06/2021 12:09
+47;38219.08;Livia das Neves;93530594;Itau;Alexia Araujo;47121539;BTG;cpf;40152936734;23/05/2022 06:48
+48;1379.61;Diogo Barbosa;43938121;Bradesco;Alexia Fogaca;77922324;Nubank;cpf;37450286190;02/03/2022 06:30
+49;0.57;Marcela Aragao;17495080;Itau;Francisco Aragao;6594012;Itau;cpf;31894627040;12/03/2021 16:28
+50;8745.63;Joao Felipe Oliveira;59642337;Nubank;Lais Nascimento;70760031;Bradesco;cpf;83051264989;17/07/2022 03:37
+51;55.00;Clara Freitas;77587448;BTG;Mariane Pinto;71013738;BTG;cpf;38671904296;26/08/2021 05:16
+52;60139.23;Agatha Lima;63674297;Nubank;Lucca Alves;42578440;Nubank;cpf;96753281428;13/06/2021 16:31
+53;6037.91;Davi Porto;53093991;Bradesco;Luiz Gustavo Cardoso;875443;Bradesco;cpf;18905276458;01/03/2022 13:06
+54;95977.62;Henrique Ferreira;6269315;Nubank;Sra. Maria Luiza Lopes;68542779;BTG;cpf;14957860211;22/09/2021 10:17
+55;35409.61;Joaquim da Rosa;87505519;Bradesco;Isabelly da Cunha;95347717;Bradesco;cpf;12574036808;02/03/2022 03:04
+56;38.66;Sr. Luiz Henrique Freitas;93575779;Bradesco;Ana Livia Silveira;366749;Itau;cpf;51968723021;30/11/2021 18:09
+57;884.04;Nicole Nascimento;60263820;BTG;Bruno Cardoso;23139336;Itau;cpf;50129764876;08/06/2021 04:08
+58;61.29;Emanuelly Rocha;65498901;Nubank;Srta. Sophie da Costa;14803356;Bradesco;cpf;48157296030;17/01/2022 06:13
+59;348.54;Maria Duarte;46934189;Itau;Noah Moura;14854836;BTG;cpf;96203187577;06/05/2022 11:33
+60;0.03;Enrico Silveira;90631381;BTG;Srta. Gabriela Pereira;9994311;BTG;cpf;48731265928;16/03/2021 19:22
+61;31.51;Alexia Santos;94650348;Bradesco;Mirella Souza;3593032;Nubank;cpf;58176230480;11/12/2021 01:12
+62;57433.69;Clarice Rodrigues;3165782;Itau;Fernando das Neves;38861852;Itau;cpf;84390165224;15/12/2022 01:29
+63;191.22;Sra. Helena Viana;39149858;Bradesco;Isabelly Fogaca;61912623;Nubank;cpf;74968250185;26/02/2022 07:11
+64;1.44;Augusto da Cruz;52543959;Itau;Sr. Joao Lucas Viana;85178154;Nubank;cpf;17432895619;05/10/2022 21:39
+65;8.03;Fernanda Carvalho;10469399;Itau;Enrico da Mota;18390879;BTG;cpf;16928570377;26/09/2021 03:10
+66;21639.12;Sra. Beatriz Viana;67936014;Nubank;Amanda Viana;25516806;BTG;cpf;12934078604;05/06/2022 12:14
+67;987.16;Gustavo Henrique Rezende;4035258;Itau;Lorenzo Moraes;46035072;BTG;cpf;57392106406;28/04/2022 16:47
+68;611.53;Luiza da Rosa;50915262;Bradesco;Danilo Correia;94849123;Nubank;cpf;91856743209;21/05/2021 06:56
+69;779.09;Benicio Silveira;81346436;Bradesco;Ana Laura Nogueira;36012533;Itau;cpf;3761298404;06/01/2022 04:45
+70;5.36;Enrico Costela;54996480;Itau;Heitor da Luz;11190989;Itau;cpf;30941825779;03/04/2022 02:48
+71;80083.34;Eduarda Campos;12495530;BTG;Olivia da Luz;30630489;BTG;cpf;42617803996;16/11/2021 10:58
+72;8465.47;Elisa Santos;94713975;Bradesco;Maysa Teixeira;16498581;BTG;email;maysa.teixeira@yahoo.com.br;08/12/2022 23:47
+73;570.52;Dr. Caue Rezende;1586882;BTG;Francisco Azevedo;73933646;BTG;email;francisco.azevedo@yahoo.com.br;02/08/2021 18:40
+74;315.96;Marcelo Costela;37182526;BTG;Benjamin Moraes;61521649;Itau;email;benjamin.moraes@outlook.com;22/08/2021 13:29
+75;1188.65;Davi Lucas Viana;8744886;Nubank;Enrico Sales;41968952;Bradesco;email;enrico.sales@hotmail.com;12/04/2022 04:02
+76;9320.87;Joao Pedro Freitas;26109760;Itau;Srta. Laura Pinto;84371001;Nubank;email;srta..laura.pinto@outlook.com;16/07/2021 00:01
+77;8265.44;Sarah Jesus;4764581;BTG;Luiz Henrique das Neves;71227398;BTG;email;luiz.henrique.das.neves@yahoo.com.br;21/11/2021 09:17
+78;81977.98;Giovanna Costa;37809286;Itau;Joao Guilherme Ramos;75756231;Bradesco;email;joao.guilherme.ramos@gmail.com;16/02/2021 18:57
+79;78559.40;Lucas Gabriel Cardoso;21729930;Bradesco;Brenda da Luz;11563344;Itau;email;brenda.da.luz@hotmail.com;09/01/2022 22:31
+80;452.38;Arthur Carvalho;23482854;Bradesco;Catarina Moura;38128549;BTG;email;catarina.moura@gmail.com;04/11/2022 01:50
+81;1.90;Srta. Lara Costa;81344472;BTG;Sra. Gabrielly Caldeira;10431480;BTG;email;gabrielly.caldeira@outlook.com;11/08/2021 04:10
+82;2842.73;Juliana Cardoso;75484383;Itau;Ana Luiza Fernandes;320358;Nubank;email;ana.luiza.fernandes@outlook.com;29/10/2022 23:43
+83;35095.43;Alana da Mata;55710215;Bradesco;Luana Cunha;69704377;Itau;email;luana.cunha@outlook.com;15/06/2021 22:33
+84;9.28;Sra. Amanda Aragao;93254442;Itau;Rodrigo Vieira;76051047;BTG;email;rodrigo.vieira@hotmail.com;29/11/2022 06:17
+85;4.68;Joao Rocha;38006155;Bradesco;Juliana da Cunha;31455037;Bradesco;email;juliana.da.cunha@hotmail.com;23/02/2022 01:30
+86;94736.79;Joao Vitor Cavalcanti;52265189;BTG;Stella Gomes;93858790;Nubank;email;stella.gomes@yahoo.com.br;26/01/2021 00:04
+87;0.93;Mariane da Mota;84120695;Bradesco;Dra. Alana das Neves;96784904;Bradesco;email;alana.das.neves@hotmail.com;20/06/2021 16:41
+88;78347.58;Lorenzo Ribeiro;50434631;BTG;Maria Clara Rodrigues;26325899;Itau;email;maria.clara.rodrigues@outlook.com;18/03/2021 14:21
+89;958.07;Erick da Mota;55169261;BTG;Thomas Cunha;65762543;Itau;email;thomas.cunha@gmail.com;13/02/2021 10:07
+90;32.23;Sr. Matheus Santos;73634717;Bradesco;Isabel Ferreira;4979355;Nubank;email;isabel.ferreira@gmail.com;22/08/2022 19:56
+91;10.33;Felipe Jesus;46232447;Nubank;Olivia Viana;41177277;BTG;email;olivia.viana@outlook.com;25/04/2021 09:00
+92;48.53;Eduardo Lima;19828639;Bradesco;Sophia Costa;82790431;Bradesco;email;sophia.costa@outlook.com;16/09/2021 22:40
+93;774.71;Davi Peixoto;84946225;BTG;Augusto Novaes;2873624;BTG;email;augusto.novaes@yahoo.com.br;14/12/2021 13:54
+94;649.41;Yasmin Goncalves;23425712;Itau;Vicente Alves;99848619;BTG;email;vicente.alves@gmail.com;26/08/2022 00:56
+95;202.69;Joao Gabriel Castro;50219556;BTG;Ana Clara Ribeiro;98997500;Nubank;email;ana.clara.ribeiro@yahoo.com.br;19/04/2021 12:46
+96;869.39;Ana Livia Carvalho;95439137;Itau;Dra. Vitoria da Paz;32448747;BTG;email;vitoria.da.paz@hotmail.com;30/07/2022 19:56
+97;94586.45;Henrique Pinto;69273106;Bradesco;Heitor Silva;81541742;Itau;email;heitor.silva@yahoo.com.br;06/09/2021 10:57
+98;6.00;Rafaela Gomes;44106020;Nubank;Lara Rezende;37284412;Bradesco;email;lara.rezende@hotmail.com;22/03/2021 20:38
+99;9.77;Ana Livia Correia;37128931;Itau;Gabrielly Viana;97906999;Nubank;email;gabrielly.viana@gmail.com;01/02/2022 20:54
+100;705.81;Murilo Barbosa;16993841;Bradesco;Rafaela Santos;40308196;Itau;email;rafaela.santos@gmail.com;07/02/2021 10:57

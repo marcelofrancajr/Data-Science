@@ -1,0 +1,12 @@
+creation_timestamp: 1678343554802
+current_stage: None
+description: null
+last_updated_timestamp: 1678343554802
+name: RandomForestRegressor
+run_id: 2be4a9ddbfc049529a730a3628bfb7a9
+run_link: null
+source: file:///home/cmcouto-silva/Insync/cmcouto.silva%40gmail.com/Google%20Drive/Freela/DNC/Aulas/Modelos/MLFlow/notebooks/mlruns/874019575468914865/2be4a9ddbfc049529a730a3628bfb7a9/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 1

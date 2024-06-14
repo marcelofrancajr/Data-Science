@@ -1,0 +1,12 @@
+creation_timestamp: 1678343567075
+current_stage: Archived
+description: null
+last_updated_timestamp: 1678345487667
+name: GradientBoostingRegressor
+run_id: 0b14675dbdef475e8cb203eccf3e84a5
+run_link: null
+source: file:///home/cmcouto-silva/Insync/cmcouto.silva%40gmail.com/Google%20Drive/Freela/DNC/Aulas/Modelos/MLFlow/notebooks/mlruns/874019575468914865/0b14675dbdef475e8cb203eccf3e84a5/artifacts/model_pipeline
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "area": 13.52,
+            "perimeter": 0.8082,
+            "compactness": 5.444,
+            "kernel_length": 2.678,
+            "kernel_width": 4.378,
+            "kernel_asymmetry_coef": 5.31,
+            "kernel_groove_length": 3
+        },
+        {
+            "area": 14.94,
+            "perimeter": 0.8724,
+            "compactness": 5.757,
+            "kernel_length": 3.371,
+            "kernel_width": 3.412,
+            "kernel_asymmetry_coef": 5.228,
+            "kernel_groove_length": 1
+        },
+        {
+            "area": 17.23,
+            "perimeter": 0.8763,
+            "compactness": 6.579,
+            "kernel_length": 3.814,
+            "kernel_width": 4.451,
+            "kernel_asymmetry_coef": 6.451,
+            "kernel_groove_length": 2
+        }
+    ]
+}
